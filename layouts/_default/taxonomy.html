@@ -1,0 +1,10 @@
+{{ partial "head.html" . }}
+
+<header>
+  <h2 id="title">{{ .Title }}</h2>
+</header>
+<main class="wrap">  
+  {{ partial "articles.html" . }}
+</main>
+
+{{ partial "foot.html" . }}

@@ -1,0 +1,33 @@
+{{ partial "head.html" . }}
+
+<main class="wrap">
+  <article class="article">
+    <header>
+      <h1><a href="{{ .Params.href }}" title="{{ .Title }}" target="_blank">{{ .Title }}</a></h1>
+    {{ .Description }}
+    </header>
+    <figure>
+      <a href="{{ .Params.href }}" target="_blank"><img src="{{ .Params.image }}" alt="{{ .Params.caption }}" /></a>
+    </figure>
+    <div class="content">{{ .Content }}</div>
+    <nav class="more">
+      <!-- <ul class="tags">
+        {{ range .Params.tags }}
+          <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+      </ul> -->
+      <time datetime="{{ .Date.Format "Jan 02, 2006" }}">{{ .Date.Format "2006.01.02" }}</time>
+    </nav>
+  </article>
+  <nav class="pagination">
+    {{ if .PrevInSection }}
+    <a href="{{ .PrevInSection.Permalink }}"><i class="fa fa-long-arrow-left"></i> Prev article</a>
+    {{ end }}
+
+    {{ if .NextInSection }}
+    <a href="{{ .NextInSection.Permalink }}">Next article <i class="fa fa-long-arrow-right"></i></a>
+    {{ end }}
+  </nav>
+</main>
+
+{{ partial "foot.html" . }}

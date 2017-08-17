@@ -1,0 +1,22 @@
+{{ if gt .TotalPages 1 }}
+{{ $paginator := . }}
+<nav class="pagination" role="navigation">
+    <ol class="pagination">
+    {{ if .HasPrev }}
+        <li><a href="{{ .Prev.URL }}"><i class="fa fa-long-arrow-left"></i> Newer articles</a></li>
+    {{ end }}
+    {{ range .Pagers }}
+        {{ if eq . $paginator }}
+            {{ $prev2 := sub .PageNumber 2 }}{{ if gt $prev2 0 }}<li><a href="/page/{{ $prev2 }}/">{{ $prev2 }}</a></li>{{ end }}
+            {{ $prev1 := sub .PageNumber 1 }}{{ if gt $prev1 0 }}<li><a href="/page/{{ $prev1 }}/">{{ $prev1 }}</a></li>{{ end }}
+            <li {{ if eq . $paginator }}class="active"{{ end }}><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
+            {{ $next1 := add .PageNumber 1 }}{{ if lt $next1 .TotalPages }}<li><a href="/page/{{ $next1 }}/">{{ $next1 }}</a></li>{{ end }}
+            {{ $next2 := add .PageNumber 2 }}{{ if lt $next2 .TotalPages }}<li><a href="/page/{{ $next2 }}/">{{ $next2 }}</a></li>{{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if .HasNext }}
+        <li><a href="{{ .Next.URL }}">More articles <i class="fa fa-long-arrow-right"></i></a></li>
+    {{end}}
+    </ol>
+</nav>
+{{ end }}
