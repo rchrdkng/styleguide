@@ -6,7 +6,7 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 
-baseurl = "http://lzd-ux.github.io/styleguide"
+baseurl = "https://lzd-ux.github.io/styleguide"
 
 relativeurls = false
 canonifyurls = true
