@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+
+<main class="wrap articles-by-tags">
+  {{ $data := .Data }}
+  {{ range $key, $value := $data.Terms.ByCount }}
+    <h1><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a></h1>
+    <section class="articles">
+    {{ range first 3 $value.Pages.ByDate }}
+        {{ .Render "li" }}
+    {{ end }}
+    {{ if gt $value.Count 1 }}
+        <p class="more"><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Count }} more articles about <strong>{{ $value.Name }}</strong> <i class="fa fa-caret-right"></i></a></p>
+    {{ end }}
+    </section>
+  {{ end }}
+</main>
+
+{{ partial "foot.html" . }}

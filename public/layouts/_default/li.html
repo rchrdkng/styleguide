@@ -1,0 +1,8 @@
+<article class="article">
+  <!-- <time datetime="{{ .Date.Format "Jan 02, 2006" }}">{{ .Date.Format "2006.01.02" }}</time> -->
+  <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
+  <!-- <p>{{ .Description }}</p> -->
+  <figure>
+    <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Params.caption }}" /></a>
+  </figure>
+</article>

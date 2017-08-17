@@ -1,0 +1,15 @@
+<section class="articles">
+  <!-- <p>
+    <span class="taxonomies tags">
+      {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.tags }}
+        <span class="taxonomy tag">{{ $taxonomyname }}</span>
+      {{ end }}
+    </span>
+  </p> -->
+
+  {{ $paginator := .Paginate (.Data.Pages) }}
+  {{ range $paginator.Pages }}
+    {{ .Render "li"}}
+  {{ end }}
+</section>
+{{ partial "pagination.html" $paginator }}

@@ -1,0 +1,7 @@
+[links]
+[links.github]
+  name = "Github"
+  identifier = "github"
+  url = "https://github.com/LZD-UX"
+  icon = "fa fa-github-square"
+  weight = 2
