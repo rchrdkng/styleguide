@@ -1,0 +1,29 @@
+title = "Lazada Style Guides"
+languagecode = "en_US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+
+baseurl = "http://lzd-ux.github.io/styleguide"
+
+relativeurls = false
+canonifyurls = true
+watch = true
+
+[author]
+  name = "Natan Santolo"
+
+[params]
+  Description = "Lazada Style Guides"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
