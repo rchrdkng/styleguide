@@ -1,13 +1,11 @@
 <section class="articles">
-  <h3>I'm not a writer</h3>
-  <p>But some times I write about
+  <!-- <p>
     <span class="taxonomies tags">
       {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.tags }}
         <span class="taxonomy tag">{{ $taxonomyname }}</span>
       {{ end }}
     </span>
-    etc.
-  </p>
+  </p> -->
 
   {{ $paginator := .Paginate (.Data.Pages) }}
   {{ range $paginator.Pages }}

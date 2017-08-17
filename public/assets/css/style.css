@@ -268,3 +268,7 @@ h1 a { color: #333;}
 /**
  * Taxnomies
  */
+
+.taxonomy.tag::after {
+  content: ", ";
+}
