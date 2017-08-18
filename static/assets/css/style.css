@@ -1,5 +1,3 @@
-/* Based on Heather - A Hyperminimal Jekyll Theme */
-
 /* BASSCSS Reset - jxnblk.github.io/basscss */
 body, h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
 button, input, select, textarea {
@@ -17,17 +15,21 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 
 
 body {
-  color: #333;
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: 400;
   font-size: 100%;
+  color: #333;
   line-height: 1.75;
-  font-family: 'Playfair Display', serif;
 }
 
 body * {
   box-sizing: border-box;
 }
+main {
+  padding: 1rem;
+}
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif;
+  font-family: serif;
   line-height: 1.25;
 }
 h1, .h1 {
@@ -39,7 +41,7 @@ h2, .h2, h3, .h3, h4, h5, h6 {
   margin-bottom: 24px;
 }
 h4, h5, h6 {
-  font-family: 'Playfair Display', serif;
+  font-family: serif;
 }
 p, .p {
   font-size: 18px;
@@ -58,69 +60,31 @@ footer { text-align: center; }
 
 a { color: #09c; text-decoration: none; }
 a:hover { color: #069; }
-h1 a { color: #333;}
 
-.wrap {
-  width: 90%;
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 2.5em 2% 5em 2%;
-}
-
-@media screen and (max-width: 640px) {
-  .wrap {
-    padding: 2.5em 7% 5em 7%;
-  }
-}
-
-.m-0 { margin-top: 0; margin-bottom: 0; }
-.mb {
-  margin-bottom: 5em;
-}
-.mb h1,
-.mb p {
+header {
 
 }
-.mb p::before {
-  content: "(";
-}
-.mb p::after {
-  content: ")";
-}
-.article { margin-bottom: 3rem; }
-.article img { max-width: 100%; }
 
-.center { text-align: center; }
-.fl { float: left; }
-.fr { float: right; }
-
-.small time { color: #999; }
-.about { margin-bottom: 5em; }
-.about p { font-family: 'Merriweather', serif; }
-.social-nav {
-    display: flex;
+header.global {
+  background-color: #183545;
+  color: #ffffff;
+  padding: 1rem;
 }
+
+header.global .logo {
+  max-width: 150px;
+}
+
+header.global .social {
+
+}
+
+header a h1 {
+  color: #ffffff;
+}
+
 @media screen and (min-width: 640px) {
-  .social-nav {
-    position: fixed;
-    display: block;
-    left: 1em;
-    top: 50%;
-    transform: translate3d(0, -50%, 0);
-  }
-  .social-nav-item { display: block; }
 }
-.social-nav-item {
-  margin-right: 1em;
-  transition: all .2s ease-out;
-  color: #333;
-}
-.social-nav-item:hover {
-  transform: scale3d(1.5, 1.5, 2);
-}
-.social-nav-item-icon { font-size: 1.5em; }
-.social-nav-item-label { display: none; }
-
 
 .pagination {
   display: flex;

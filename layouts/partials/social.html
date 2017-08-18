@@ -1,8 +1,8 @@
-<nav class="social-nav">
+<nav class="social">
     {{ range $.Site.Data.social.links }}
-    <a class="social-nav-item" href="{{.url}}" title="{{.name}}" target="_blank">
-      <span class="social-nav-item-icon"><i class="{{.icon}}"></i></span>
-      <span class="social-nav-item-label">{{.name}}</span>
+    <a class="social-item" href="{{.url}}" title="{{.name}}" target="_blank">
+      <span class="social-item-icon"><i class="{{.icon}}"></i></span>
+      <span class="social-item-label">{{.name}}</span>
     </a>
     {{ end }}
 </nav>
