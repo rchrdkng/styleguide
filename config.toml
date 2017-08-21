@@ -13,7 +13,7 @@ canonifyurls = true
 watch = true
 
 [author]
-  name = "Natan Santolo"
+  name = "Lazada UX Team"
 
 [params]
   Description = "This guide groups most used interaction design pattenrs and explain how to implement them to help creating mobile experiences for Lazada products."

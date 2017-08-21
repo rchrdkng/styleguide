@@ -32,4 +32,4 @@ git push origin master
 
 ## Support
 
-(Natan Santolo)[natan.santolo@lazada.com]
+[Natan Santolo](natan.santolo@lazada.com)
