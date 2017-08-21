@@ -9,9 +9,11 @@
 
   <h2>Interaction Patterns</h2>
   {{ $paginator := .Paginate (.Data.Pages) }}
+  <ul>
   {{ range $paginator.Pages }}
-    {{ .Render "li"}}
+    <li>{{ .Render "li"}}</li>
   {{ end }}
+  </ul>
 </section>
 
 {{ partial "pagination.html" $paginator }}
