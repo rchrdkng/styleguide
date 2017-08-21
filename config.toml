@@ -1,4 +1,4 @@
-title = "Lazada Style Guides"
+title = "Lazada Mobile Style Guides"
 languagecode = "en_US"
 
 contentdir = "content"
@@ -16,7 +16,7 @@ watch = true
   name = "Natan Santolo"
 
 [params]
-  Description = "Lazada Style Guides"
+  Description = "This guide groups most used interaction design pattenrs and explain how to implement them to help creating mobile experiences for Lazada products."
 
 [taxonomies]
   category = "categories"

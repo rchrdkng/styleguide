@@ -3,5 +3,5 @@
   name = "Github"
   identifier = "github"
   url = "https://github.com/LZD-UX"
-  icon = "fa fa-github-square"
+  icon = "fa fa-github"
   weight = 2

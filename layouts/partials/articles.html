@@ -7,9 +7,11 @@
     </span>
   </p> -->
 
+  <h2>Interaction Patterns</h2>
   {{ $paginator := .Paginate (.Data.Pages) }}
   {{ range $paginator.Pages }}
     {{ .Render "li"}}
   {{ end }}
 </section>
+
 {{ partial "pagination.html" $paginator }}

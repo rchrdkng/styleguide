@@ -2,13 +2,6 @@
 
 <main class="wrap">
   <article class="article">
-    <header>
-      <h1><a href="{{ .Params.href }}" title="{{ .Title }}" target="_blank">{{ .Title }}</a></h1>
-    {{ .Description }}
-    </header>
-    <figure>
-      <a href="{{ .Params.href }}" target="_blank"><img src="{{ .Params.image }}" alt="{{ .Params.caption }}" /></a>
-    </figure>
     <div class="content">{{ .Content }}</div>
     <nav class="more">
       <!-- <ul class="tags">
