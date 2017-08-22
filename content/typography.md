@@ -11,6 +11,8 @@ slug = "typography"
 
 # Typography
 
+Get typography in Sketch [here](/) (add link)
+
 ## Font Families
 
 ### Main: Roboto

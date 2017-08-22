@@ -13,6 +13,8 @@ slug = "colors"
 
 The general color palette is based on 5 color tones that are repeated throughout the UI.
 
+Get colors in Sketch [here](/) (add link)
+
 ## Main Colors
 
 {{< color class="main-color" hex="#183545" label="lazada_blue" description="Primary Blue" >}}
