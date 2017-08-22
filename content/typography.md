@@ -13,7 +13,7 @@ slug = "typography"
 
 ## Font Families
 
-### Main {{< link href="https://fonts.google.com/specimen/Roboto" >}}Roboto{{< /link >}}
+### Main: Roboto
 
 #### About
 {{< section class="about-font" >}}
@@ -28,7 +28,7 @@ slug = "typography"
 
 
 
-### Secondary {{< link href="https://fonts.google.com/specimen/Noto+Sans" >}}Noto Sans{{< /link >}}
+### Secondary Noto Sans
 
 #### About
 
