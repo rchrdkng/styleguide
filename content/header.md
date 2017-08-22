@@ -18,23 +18,21 @@ Get header in Sketch [here](/) (add link)
 ## Default state
 ### Example
 
-![Default state](/assets/images/articles/header-bar/default-state.png)
+{{< examples size="3" >}}
+{{% image src="/assets/images/articles/header-bar/default-state.png" %}}
+{{% image src="/assets/images/articles/header-bar/default-state.png" %}}
+{{% image src="/assets/images/articles/header-bar/default-state.png" %}}
+{{< /examples >}}
 
 (add more examples)
 
 ### Use case
 
-They indicate to the user the main actions in a screen or flow.
+It allow the user to trigger either main navigation or start a search query, also will show a visual queue to notify about any notification.
 
 ### Specifications
 
 (add blueprint)
-
-Background: #183545 Lazada Blue
-Foreground: #ffffff White
-Border: None
-Radius: 3px
-Font: Helvetica
 
 ## Hidden state
 ### Example
@@ -43,7 +41,7 @@ Font: Helvetica
 
 ### Use case
 
-They indicate to the user one of many actions in a screen or flow.
+They maximise
 
 (add examples)
 

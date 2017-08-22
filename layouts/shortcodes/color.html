@@ -1,0 +1,10 @@
+<div class="color{{ with .Get "class"}} {{.}}{{ end }}">
+{{ with .Get "from"}}<div class="from-color" style="background-color:{{.}}"></div>{{ end }}
+{{ with .Get "to"}}<div class="to-color" style="background-color:{{.}}"></div>{{ end }}
+{{ with .Get "hex"}}<div class="fill-color" style="background-color:{{.}}"></div>{{ end }}
+{{ with .Get "hex"}}<div>{{.}}</div>{{ end }}
+{{ with .Get "from"}}<div>{{.}}</div>{{ end }}
+{{ with .Get "to"}}<div>{{.}}</div>{{ end }}
+{{ with .Get "label"}}<label>{{.}}</label>{{ end }}
+{{ with .Get "description"}}<p>{{.}}</p>{{ end }}
+</div>

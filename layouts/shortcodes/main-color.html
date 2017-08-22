@@ -1,0 +1,6 @@
+<div class="main-color{{ with .Get "class"}} {{.}}{{ end }}">
+{{ with .Get "hex"}}<div class="circle-color" style="background-color:{{.}}"></div>{{ end }}
+{{ with .Get "hex"}}<div class="inner-color">{{.}}</div>{{ end }}
+{{ with .Get "label"}}<label>{{.}}</label>{{ end }}
+{{ with .Get "description"}}<p>{{.}}</p>{{ end }}
+</div>
