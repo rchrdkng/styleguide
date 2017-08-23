@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buttons on Lazada Mobile Style Guides</title>
+    <link>https://lzd-ux.github.io/styleguide/tags/buttons/</link>
+    <description>Recent content in Buttons on Lazada Mobile Style Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lzd-ux.github.io/styleguide/tags/buttons/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://lzd-ux.github.io/styleguide/buttons/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzd-ux.github.io/styleguide/buttons/</guid>
+      <description>
+
+&lt;h1 id=&#34;buttons&#34;&gt;Buttons&lt;/h1&gt;
+
+&lt;p&gt;Buttons are use to show the user the main actions available in the application. A button clearly communicates what&amp;rsquo;s going to happen when the user triggers the action.&lt;/p&gt;
+
+&lt;p&gt;Get buttons in Sketch &lt;a href=&#34;https://lzd-ux.github.io/styleguide/&#34;&gt;here&lt;/a&gt; (add link)&lt;/p&gt;
+
+&lt;h2 id=&#34;main-action&#34;&gt;Main action&lt;/h2&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;use-case&#34;&gt;Use case&lt;/h3&gt;
+
+&lt;p&gt;They indicate to the user the main actions in a screen or flow.&lt;/p&gt;
+
+&lt;h3 id=&#34;specifications&#34;&gt;Specifications&lt;/h3&gt;
+
+&lt;p&gt;(add blueprint)&lt;/p&gt;
+
+&lt;p&gt;Background: #183545 Lazada Blue&lt;br /&gt;
+Foreground: #ffffff White&lt;br /&gt;
+Border: None&lt;br /&gt;
+Radius: 3px&lt;br /&gt;
+Font: Helvetica&lt;/p&gt;
+
+&lt;h2 id=&#34;secondary-action&#34;&gt;Secondary action&lt;/h2&gt;
+
+&lt;h3 id=&#34;example-1&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;use-case-1&#34;&gt;Use case&lt;/h3&gt;
+
+&lt;p&gt;They indicate to the user one of many actions in a screen or flow.&lt;/p&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;specifications-1&#34;&gt;Specifications&lt;/h3&gt;
+
+&lt;p&gt;(add blueprint)&lt;/p&gt;
+
+&lt;p&gt;Background: Transparent&lt;br /&gt;
+Foreground: #183545 Lazada Blue&lt;br /&gt;
+Border: #183545 Lazada Blue&lt;br /&gt;
+Radius: 3px&lt;br /&gt;
+Font: Helvetica&lt;/p&gt;
+
+&lt;h2 id=&#34;dos-and-don-ts&#34;&gt;Dos and Don&amp;rsquo;ts&lt;/h2&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Header bar</title>
+      <link>https://lzd-ux.github.io/styleguide/header-bar/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzd-ux.github.io/styleguide/header-bar/</guid>
+      <description>
+
+&lt;h1 id=&#34;header-bar&#34;&gt;Header bar&lt;/h1&gt;
+
+&lt;p&gt;Header bar is use to allow user to trigger main navigation and discovery interactions in the application. A header bar shows easy access to most common areas and functions, like navigation menu, search or notifications.&lt;/p&gt;
+
+&lt;p&gt;Get header in Sketch &lt;a href=&#34;https://lzd-ux.github.io/styleguide/&#34;&gt;here&lt;/a&gt; (add link)&lt;/p&gt;
+
+&lt;h2 id=&#34;default-state&#34;&gt;Default state&lt;/h2&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;div class=&#34;examples size-3&#34;&gt;
+  
+&lt;figure&gt;
+
+&lt;img src=&#34;https://lzd-ux.github.io/styleguide/assets/images/articles/header-bar/default-state.png&#34;  /&gt;
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://lzd-ux.github.io/styleguide/assets/images/articles/header-bar/default-state.png&#34;  /&gt;
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://lzd-ux.github.io/styleguide/assets/images/articles/header-bar/default-state.png&#34;  /&gt;
+
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;(add more examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;use-case&#34;&gt;Use case&lt;/h3&gt;
+
+&lt;p&gt;It allow the user to trigger either main navigation or start a search query, also will show a visual queue to notify about any notification.&lt;/p&gt;
+
+&lt;h3 id=&#34;specifications&#34;&gt;Specifications&lt;/h3&gt;
+
+&lt;p&gt;(add blueprint)&lt;/p&gt;
+
+&lt;h2 id=&#34;hidden-state&#34;&gt;Hidden state&lt;/h2&gt;
+
+&lt;h3 id=&#34;example-1&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;use-case-1&#34;&gt;Use case&lt;/h3&gt;
+
+&lt;p&gt;They maximise&lt;/p&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+
+&lt;h3 id=&#34;specifications-1&#34;&gt;Specifications&lt;/h3&gt;
+
+&lt;p&gt;(add blueprint)&lt;/p&gt;
+
+&lt;p&gt;Background: Transparent&lt;br /&gt;
+Foreground: #183545 Lazada Blue&lt;br /&gt;
+Border: #183545 Lazada Blue&lt;br /&gt;
+Radius: 3px&lt;br /&gt;
+Font: Helvetica&lt;/p&gt;
+
+&lt;h2 id=&#34;dos-and-don-ts&#34;&gt;Dos and Don&amp;rsquo;ts&lt;/h2&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

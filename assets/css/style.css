@@ -1,0 +1,205 @@
+/* BASSCSS Reset - jxnblk.github.io/basscss */
+body, h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
+button, input, select, textarea {
+  margin: 0;
+  margin-bottom: .5rem;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+  display: block;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+.noto {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Noto Sans', sans-serif;*/
+  font-weight: 400;
+  font-size: 100%;
+  color: #333;
+  line-height: 1.75;
+}
+
+body * {
+  box-sizing: border-box;
+}
+main {
+  padding: 1rem;
+}
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin: 1em 0;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0
+}
+p {
+  font-size: 18px;
+  margin-bottom: 32px;
+}
+small { font-size: 16px; }
+
+iframe { margin-bottom: 32px; }
+footer { text-align: center; }
+
+a { color: #09c; text-decoration: none; }
+a:hover { color: #069; }
+
+header {
+
+}
+
+header.global {
+  background-color: #183545;
+  color: #ffffff;
+  padding: 1rem;
+  position: relative;
+}
+
+header.global .search {
+  background: #fff;
+  border-radius: 3px;
+  width: auto;
+  margin-right: 2.5rem;
+  padding-left: 2.5rem;
+  position: relative;
+}
+header.global .bars {
+  position: absolute;
+  color: #183545;
+  font-size: 1.2rem;
+  top: .3rem;
+  left: 1rem;
+}
+header.global .search input {
+  border: none;
+  border-radius: 3px;
+  padding: .75rem;
+  margin: 0;
+  width: 100%;
+  z-index: 1;
+}
+header.global .search input:not(:empty) + .logo,
+header.global .search input:active + .logo,
+header.global .search input:focus + .logo {
+  display: none;
+}
+header.global .logo {
+  position: absolute;
+  height: 1rem;
+  top: .9rem;
+  left: 3rem;
+  z-index: 0;
+}
+header.global .social {
+  font-size: 2rem;
+  top: .6rem;
+  right: 1rem;
+  position: absolute;
+}
+header.global .social a {
+  color: #fff;
+}
+
+
+header a h1 {
+  color: #ffffff;
+}
+
+@media screen and (min-width: 640px) {
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+}
+
+/**
+ * Characters
+ */
+
+.characters {
+  color: #666;
+  display: inline-block;
+  font-size: 1em;
+}
+.characters.roboto,
+.characters.noto {
+  white-space: pre-wrap;
+  letter-spacing: .5em;
+}
+
+/**
+ * Examples
+ */
+
+.examples img {
+  height: 500px;
+}
+
+
+/**
+ * Colors
+ */
+
+.color {
+  position: relative;
+}
+.color p {
+  margin: 0;
+}
+.color.main-color {
+  padding-left: 6rem;
+}
+.color.main-color .fill-color {
+  width: 4.5rem;
+  height: 4.5rem;
+  position: absolute;
+  top: .25rem;
+  left: .25rem;
+  border-radius: 100%;
+  border: 1px dotted #183545;
+}
+.color.palette-color,
+.color.gradient-color {
+  padding-left: 45%;
+}
+.color.palette-color .fill-color {
+  width: 40%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.color.gradient-color .from-color,
+.color.gradient-color .to-color {
+  width: 40%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.color.gradient-color .from-color {
+  height: 80%;
+}
+.color.gradient-color .to-color {
+  top: auto;
+  bottom: 0;
+  height: 20%;
+}
+
+/**
+ * Taxnomies
+ */

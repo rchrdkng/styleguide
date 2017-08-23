@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Type on Lazada Mobile Style Guides</title>
+    <link>https://lzd-ux.github.io/styleguide/tags/type/</link>
+    <description>Recent content in Type on Lazada Mobile Style Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lzd-ux.github.io/styleguide/tags/type/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Typography</title>
+      <link>https://lzd-ux.github.io/styleguide/typography/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzd-ux.github.io/styleguide/typography/</guid>
+      <description>
+
+&lt;h1 id=&#34;typography&#34;&gt;Typography&lt;/h1&gt;
+
+&lt;p&gt;Get typography in Sketch &lt;a href=&#34;https://lzd-ux.github.io/styleguide/&#34;&gt;here&lt;/a&gt; (add link)&lt;/p&gt;
+
+&lt;h2 id=&#34;font-families&#34;&gt;Font Families&lt;/h2&gt;
+
+&lt;h3 id=&#34;main-roboto&#34;&gt;Main: Roboto&lt;/h3&gt;
+
+&lt;h4 id=&#34;about&#34;&gt;About&lt;/h4&gt;
+
+&lt;section class=&#34;about-font&#34;&gt;
+  
+&lt;a href=&#34;https://fonts.google.com/specimen/Roboto&#34; target=&#34;_blank&#34;&gt;Roboto&lt;/a&gt;
+ has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves. While some grotesks distort their letterforms to force a rigid rhythm, &lt;a href=&#34;https://fonts.google.com/specimen/Roboto&#34; target=&#34;_blank&#34;&gt;Roboto&lt;/a&gt;
+ doesn’t compromise, allowing letters to be settled into their natural width. This makes for a more natural reading rhythm more commonly found in humanist and serif types.
+
+&lt;/section&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;https://lzd-ux.github.io/styleguide/assets/images/articles/typography/type-body-reference.png&#34; alt=&#34;Type Body Reference&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;characters&#34;&gt;Characters&lt;/h4&gt;
+
+&lt;p class=&#34;characters roboto&#34;&gt;​‌A&amp;#8203;&amp;zwnj;B&amp;#8203;&amp;zwnj;C&amp;#8203;&amp;zwnj;Ć&amp;#8203;&amp;zwnj;Č&amp;#8203;&amp;zwnj;D&amp;#8203;&amp;zwnj;Đ&amp;#8203;&amp;zwnj;E&amp;#8203;&amp;zwnj;F&amp;#8203;&amp;zwnj;G&amp;#8203;&amp;zwnj;H&amp;#8203;&amp;zwnj;I&amp;#8203;&amp;zwnj;J&amp;#8203;&amp;zwnj;K&amp;#8203;&amp;zwnj;L&amp;#8203;&amp;zwnj;M&amp;#8203;&amp;zwnj;N&amp;#8203;&amp;zwnj;O&amp;#8203;&amp;zwnj;P&amp;#8203;&amp;zwnj;Q&amp;#8203;&amp;zwnj;R&amp;#8203;&amp;zwnj;S&amp;#8203;&amp;zwnj;Š&amp;#8203;&amp;zwnj;T&amp;#8203;&amp;zwnj;U&amp;#8203;&amp;zwnj;V&amp;#8203;&amp;zwnj;W&amp;#8203;&amp;zwnj;X&amp;#8203;&amp;zwnj;Y&amp;#8203;&amp;zwnj;Z&amp;#8203;&amp;zwnj;Ž&amp;#8203;&amp;zwnj;a&amp;#8203;&amp;zwnj;b&amp;#8203;&amp;zwnj;c&amp;#8203;&amp;zwnj;č&amp;#8203;&amp;zwnj;ć&amp;#8203;&amp;zwnj;d&amp;#8203;&amp;zwnj;đ&amp;#8203;&amp;zwnj;e&amp;#8203;&amp;zwnj;f&amp;#8203;&amp;zwnj;g&amp;#8203;&amp;zwnj;h&amp;#8203;&amp;zwnj;i&amp;#8203;&amp;zwnj;j&amp;#8203;&amp;zwnj;k&amp;#8203;&amp;zwnj;l&amp;#8203;&amp;zwnj;m&amp;#8203;&amp;zwnj;n&amp;#8203;&amp;zwnj;o&amp;#8203;&amp;zwnj;p&amp;#8203;&amp;zwnj;q&amp;#8203;&amp;zwnj;r&amp;#8203;&amp;zwnj;s&amp;#8203;&amp;zwnj;š&amp;#8203;&amp;zwnj;t&amp;#8203;&amp;zwnj;u&amp;#8203;&amp;zwnj;v&amp;#8203;&amp;zwnj;w&amp;#8203;&amp;zwnj;x&amp;#8203;&amp;zwnj;y&amp;#8203;&amp;zwnj;z&amp;#8203;&amp;zwnj;ž&amp;#8203;&amp;zwnj;А&amp;#8203;&amp;zwnj;Б&amp;#8203;&amp;zwnj;В&amp;#8203;&amp;zwnj;Г&amp;#8203;&amp;zwnj;Ґ&amp;#8203;&amp;zwnj;Д&amp;#8203;&amp;zwnj;Ђ&amp;#8203;&amp;zwnj;Е&amp;#8203;&amp;zwnj;Ё&amp;#8203;&amp;zwnj;Є&amp;#8203;&amp;zwnj;Ж&amp;#8203;&amp;zwnj;З&amp;#8203;&amp;zwnj;Ѕ&amp;#8203;&amp;zwnj;И&amp;#8203;&amp;zwnj;І&amp;#8203;&amp;zwnj;Ї&amp;#8203;&amp;zwnj;Й&amp;#8203;&amp;zwnj;Ј&amp;#8203;&amp;zwnj;К&amp;#8203;&amp;zwnj;Л&amp;#8203;&amp;zwnj;Љ&amp;#8203;&amp;zwnj;М&amp;#8203;&amp;zwnj;Н&amp;#8203;&amp;zwnj;Њ&amp;#8203;&amp;zwnj;О&amp;#8203;&amp;zwnj;П&amp;#8203;&amp;zwnj;Р&amp;#8203;&amp;zwnj;С&amp;#8203;&amp;zwnj;Т&amp;#8203;&amp;zwnj;Ћ&amp;#8203;&amp;zwnj;У&amp;#8203;&amp;zwnj;Ў&amp;#8203;&amp;zwnj;Ф&amp;#8203;&amp;zwnj;Х&amp;#8203;&amp;zwnj;Ц&amp;#8203;&amp;zwnj;Ч&amp;#8203;&amp;zwnj;Џ&amp;#8203;&amp;zwnj;Ш&amp;#8203;&amp;zwnj;Щ&amp;#8203;&amp;zwnj;Ъ&amp;#8203;&amp;zwnj;Ы&amp;#8203;&amp;zwnj;Ь&amp;#8203;&amp;zwnj;Э&amp;#8203;&amp;zwnj;Ю&amp;#8203;&amp;zwnj;Я&amp;#8203;&amp;zwnj;а&amp;#8203;&amp;zwnj;б&amp;#8203;&amp;zwnj;в&amp;#8203;&amp;zwnj;г&amp;#8203;&amp;zwnj;ґ&amp;#8203;&amp;zwnj;д&amp;#8203;&amp;zwnj;ђ&amp;#8203;&amp;zwnj;е&amp;#8203;&amp;zwnj;ё&amp;#8203;&amp;zwnj;є&amp;#8203;&amp;zwnj;ж&amp;#8203;&amp;zwnj;з&amp;#8203;&amp;zwnj;ѕ&amp;#8203;&amp;zwnj;и&amp;#8203;&amp;zwnj;і&amp;#8203;&amp;zwnj;ї&amp;#8203;&amp;zwnj;й&amp;#8203;&amp;zwnj;ј&amp;#8203;&amp;zwnj;к&amp;#8203;&amp;zwnj;л&amp;#8203;&amp;zwnj;љ&amp;#8203;&amp;zwnj;м&amp;#8203;&amp;zwnj;н&amp;#8203;&amp;zwnj;њ&amp;#8203;&amp;zwnj;о&amp;#8203;&amp;zwnj;п&amp;#8203;&amp;zwnj;р&amp;#8203;&amp;zwnj;с&amp;#8203;&amp;zwnj;т&amp;#8203;&amp;zwnj;ћ&amp;#8203;&amp;zwnj;у&amp;#8203;&amp;zwnj;ў&amp;#8203;&amp;zwnj;ф&amp;#8203;&amp;zwnj;х&amp;#8203;&amp;zwnj;ц&amp;#8203;&amp;zwnj;ч&amp;#8203;&amp;zwnj;џ&amp;#8203;&amp;zwnj;ш&amp;#8203;&amp;zwnj;щ&amp;#8203;&amp;zwnj;ъ&amp;#8203;&amp;zwnj;ы&amp;#8203;&amp;zwnj;ь&amp;#8203;&amp;zwnj;э&amp;#8203;&amp;zwnj;ю&amp;#8203;&amp;zwnj;я&amp;#8203;&amp;zwnj;Α&amp;#8203;&amp;zwnj;Β&amp;#8203;&amp;zwnj;Γ&amp;#8203;&amp;zwnj;Δ&amp;#8203;&amp;zwnj;Ε&amp;#8203;&amp;zwnj;Ζ&amp;#8203;&amp;zwnj;Η&amp;#8203;&amp;zwnj;Θ&amp;#8203;&amp;zwnj;Ι&amp;#8203;&amp;zwnj;Κ&amp;#8203;&amp;zwnj;Λ&amp;#8203;&amp;zwnj;Μ&amp;#8203;&amp;zwnj;Ν&amp;#8203;&amp;zwnj;Ξ&amp;#8203;&amp;zwnj;Ο&amp;#8203;&amp;zwnj;Π&amp;#8203;&amp;zwnj;Ρ&amp;#8203;&amp;zwnj;Σ&amp;#8203;&amp;zwnj;Τ&amp;#8203;&amp;zwnj;Υ&amp;#8203;&amp;zwnj;Φ&amp;#8203;&amp;zwnj;Χ&amp;#8203;&amp;zwnj;Ψ&amp;#8203;&amp;zwnj;Ω&amp;#8203;&amp;zwnj;α&amp;#8203;&amp;zwnj;β&amp;#8203;&amp;zwnj;γ&amp;#8203;&amp;zwnj;δ&amp;#8203;&amp;zwnj;ε&amp;#8203;&amp;zwnj;ζ&amp;#8203;&amp;zwnj;η&amp;#8203;&amp;zwnj;θ&amp;#8203;&amp;zwnj;ι&amp;#8203;&amp;zwnj;κ&amp;#8203;&amp;zwnj;λ&amp;#8203;&amp;zwnj;μ&amp;#8203;&amp;zwnj;ν&amp;#8203;&amp;zwnj;ξ&amp;#8203;&amp;zwnj;ο&amp;#8203;&amp;zwnj;π&amp;#8203;&amp;zwnj;ρ&amp;#8203;&amp;zwnj;σ&amp;#8203;&amp;zwnj;τ&amp;#8203;&amp;zwnj;υ&amp;#8203;&amp;zwnj;φ&amp;#8203;&amp;zwnj;χ&amp;#8203;&amp;zwnj;ψ&amp;#8203;&amp;zwnj;ω&amp;#8203;&amp;zwnj;ά&amp;#8203;&amp;zwnj;Ά&amp;#8203;&amp;zwnj;έ&amp;#8203;&amp;zwnj;Έ&amp;#8203;&amp;zwnj;έ&amp;#8203;&amp;zwnj;Ή&amp;#8203;&amp;zwnj;ί&amp;#8203;&amp;zwnj;ϊ&amp;#8203;&amp;zwnj;ΐ&amp;#8203;&amp;zwnj;Ί&amp;#8203;&amp;zwnj;ό&amp;#8203;&amp;zwnj;Ό&amp;#8203;&amp;zwnj;ύ&amp;#8203;&amp;zwnj;ΰ&amp;#8203;&amp;zwnj;ϋ&amp;#8203;&amp;zwnj;Ύ&amp;#8203;&amp;zwnj;Ϋ&amp;#8203;&amp;zwnj;Ώ&amp;#8203;&amp;zwnj;Ă&amp;#8203;&amp;zwnj;Â&amp;#8203;&amp;zwnj;Ê&amp;#8203;&amp;zwnj;Ô&amp;#8203;&amp;zwnj;Ơ&amp;#8203;&amp;zwnj;Ư&amp;#8203;&amp;zwnj;ă&amp;#8203;&amp;zwnj;â&amp;#8203;&amp;zwnj;ê&amp;#8203;&amp;zwnj;ô&amp;#8203;&amp;zwnj;ơ&amp;#8203;&amp;zwnj;ư&amp;#8203;&amp;zwnj;1&amp;#8203;&amp;zwnj;2&amp;#8203;&amp;zwnj;3&amp;#8203;&amp;zwnj;4&amp;#8203;&amp;zwnj;5&amp;#8203;&amp;zwnj;6&amp;#8203;&amp;zwnj;7&amp;#8203;&amp;zwnj;8&amp;#8203;&amp;zwnj;9&amp;#8203;&amp;zwnj;0&amp;#8203;&amp;zwnj;‘&amp;#8203;&amp;zwnj;?&amp;#8203;&amp;zwnj;’&amp;#8203;&amp;zwnj;“&amp;#8203;&amp;zwnj;!&amp;#8203;&amp;zwnj;”&amp;#8203;&amp;zwnj;(&amp;#8203;&amp;zwnj;%&amp;#8203;&amp;zwnj;)&amp;#8203;&amp;zwnj;[&amp;#8203;&amp;zwnj;#&amp;#8203;&amp;zwnj;]&amp;#8203;&amp;zwnj;{&amp;#8203;&amp;zwnj;@&amp;#8203;&amp;zwnj;}&amp;#8203;&amp;zwnj;/&amp;#8203;&amp;zwnj;&amp;amp;&amp;#8203;&amp;zwnj;&amp;lt;&amp;#8203;&amp;zwnj;-&amp;#8203;&amp;zwnj;+&amp;#8203;&amp;zwnj;÷&amp;#8203;&amp;zwnj;×&amp;#8203;&amp;zwnj;=&amp;#8203;&amp;zwnj;&amp;gt;&amp;#8203;&amp;zwnj;®&amp;#8203;&amp;zwnj;©&amp;#8203;&amp;zwnj;$&amp;#8203;&amp;zwnj;€&amp;#8203;&amp;zwnj;£&amp;#8203;&amp;zwnj;¥&amp;#8203;&amp;zwnj;¢&amp;#8203;&amp;zwnj;:&amp;#8203;&amp;zwnj;;&amp;#8203;&amp;zwnj;,&amp;#8203;&amp;zwnj;.&amp;#8203;&amp;zwnj;*
+&lt;/p&gt;
+
+
+&lt;h3 id=&#34;secondary-noto-sans&#34;&gt;Secondary Noto Sans&lt;/h3&gt;
+
+&lt;h4 id=&#34;about-1&#34;&gt;About&lt;/h4&gt;
+
+&lt;p&gt;&lt;section class=&#34;about-font&#34;&gt;
+  
+When text is rendered by a computer, sometimes there will be characters in the text that can not be displayed, because no font that supports them is available to the computer. When this occurs, small boxes are shown to represent the characters. We call those small boxes “tofu,” and we want to remove tofu from the Web. This is how the &lt;a href=&#34;https://fonts.google.com/specimen/Noto&amp;#43;Sans&#34; target=&#34;_blank&#34;&gt;Noto&lt;/a&gt;
+ font families got their name. &lt;a href=&#34;https://fonts.google.com/specimen/Noto&amp;#43;Sans&#34; target=&#34;_blank&#34;&gt;Noto&lt;/a&gt;
+ fonts are intended to be visually harmonious across multiple languages, with compatible heights and stroke thicknesses.
+
+&lt;/section&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;characters-1&#34;&gt;Characters&lt;/h4&gt;
+
+&lt;p class=&#34;characters noto&#34;&gt;A&amp;#8203;&amp;zwnj;B&amp;#8203;&amp;zwnj;C&amp;#8203;&amp;zwnj;Ć&amp;#8203;&amp;zwnj;Č&amp;#8203;&amp;zwnj;D&amp;#8203;&amp;zwnj;Đ&amp;#8203;&amp;zwnj;E&amp;#8203;&amp;zwnj;F&amp;#8203;&amp;zwnj;G&amp;#8203;&amp;zwnj;H&amp;#8203;&amp;zwnj;I&amp;#8203;&amp;zwnj;J&amp;#8203;&amp;zwnj;K&amp;#8203;&amp;zwnj;L&amp;#8203;&amp;zwnj;M&amp;#8203;&amp;zwnj;N&amp;#8203;&amp;zwnj;O&amp;#8203;&amp;zwnj;P&amp;#8203;&amp;zwnj;Q&amp;#8203;&amp;zwnj;R&amp;#8203;&amp;zwnj;S&amp;#8203;&amp;zwnj;Š&amp;#8203;&amp;zwnj;T&amp;#8203;&amp;zwnj;U&amp;#8203;&amp;zwnj;V&amp;#8203;&amp;zwnj;W&amp;#8203;&amp;zwnj;X&amp;#8203;&amp;zwnj;Y&amp;#8203;&amp;zwnj;Z&amp;#8203;&amp;zwnj;Ž&amp;#8203;&amp;zwnj;a&amp;#8203;&amp;zwnj;b&amp;#8203;&amp;zwnj;c&amp;#8203;&amp;zwnj;č&amp;#8203;&amp;zwnj;ć&amp;#8203;&amp;zwnj;d&amp;#8203;&amp;zwnj;đ&amp;#8203;&amp;zwnj;e&amp;#8203;&amp;zwnj;f&amp;#8203;&amp;zwnj;g&amp;#8203;&amp;zwnj;h&amp;#8203;&amp;zwnj;i&amp;#8203;&amp;zwnj;j&amp;#8203;&amp;zwnj;k&amp;#8203;&amp;zwnj;l&amp;#8203;&amp;zwnj;m&amp;#8203;&amp;zwnj;n&amp;#8203;&amp;zwnj;o&amp;#8203;&amp;zwnj;p&amp;#8203;&amp;zwnj;q&amp;#8203;&amp;zwnj;r&amp;#8203;&amp;zwnj;s&amp;#8203;&amp;zwnj;š&amp;#8203;&amp;zwnj;t&amp;#8203;&amp;zwnj;u&amp;#8203;&amp;zwnj;v&amp;#8203;&amp;zwnj;w&amp;#8203;&amp;zwnj;x&amp;#8203;&amp;zwnj;y&amp;#8203;&amp;zwnj;z&amp;#8203;&amp;zwnj;ž&amp;#8203;&amp;zwnj;А&amp;#8203;&amp;zwnj;Б&amp;#8203;&amp;zwnj;В&amp;#8203;&amp;zwnj;Г&amp;#8203;&amp;zwnj;Ґ&amp;#8203;&amp;zwnj;Д&amp;#8203;&amp;zwnj;Ђ&amp;#8203;&amp;zwnj;Е&amp;#8203;&amp;zwnj;Ё&amp;#8203;&amp;zwnj;Є&amp;#8203;&amp;zwnj;Ж&amp;#8203;&amp;zwnj;З&amp;#8203;&amp;zwnj;Ѕ&amp;#8203;&amp;zwnj;И&amp;#8203;&amp;zwnj;І&amp;#8203;&amp;zwnj;Ї&amp;#8203;&amp;zwnj;Й&amp;#8203;&amp;zwnj;Ј&amp;#8203;&amp;zwnj;К&amp;#8203;&amp;zwnj;Л&amp;#8203;&amp;zwnj;Љ&amp;#8203;&amp;zwnj;М&amp;#8203;&amp;zwnj;Н&amp;#8203;&amp;zwnj;Њ&amp;#8203;&amp;zwnj;О&amp;#8203;&amp;zwnj;П&amp;#8203;&amp;zwnj;Р&amp;#8203;&amp;zwnj;С&amp;#8203;&amp;zwnj;Т&amp;#8203;&amp;zwnj;Ћ&amp;#8203;&amp;zwnj;У&amp;#8203;&amp;zwnj;Ў&amp;#8203;&amp;zwnj;Ф&amp;#8203;&amp;zwnj;Х&amp;#8203;&amp;zwnj;Ц&amp;#8203;&amp;zwnj;Ч&amp;#8203;&amp;zwnj;Џ&amp;#8203;&amp;zwnj;Ш&amp;#8203;&amp;zwnj;Щ&amp;#8203;&amp;zwnj;Ъ&amp;#8203;&amp;zwnj;Ы&amp;#8203;&amp;zwnj;Ь&amp;#8203;&amp;zwnj;Э&amp;#8203;&amp;zwnj;Ю&amp;#8203;&amp;zwnj;Я&amp;#8203;&amp;zwnj;а&amp;#8203;&amp;zwnj;б&amp;#8203;&amp;zwnj;в&amp;#8203;&amp;zwnj;г&amp;#8203;&amp;zwnj;ґ&amp;#8203;&amp;zwnj;д&amp;#8203;&amp;zwnj;ђ&amp;#8203;&amp;zwnj;е&amp;#8203;&amp;zwnj;ё&amp;#8203;&amp;zwnj;є&amp;#8203;&amp;zwnj;ж&amp;#8203;&amp;zwnj;з&amp;#8203;&amp;zwnj;ѕ&amp;#8203;&amp;zwnj;и&amp;#8203;&amp;zwnj;і&amp;#8203;&amp;zwnj;ї&amp;#8203;&amp;zwnj;й&amp;#8203;&amp;zwnj;ј&amp;#8203;&amp;zwnj;к&amp;#8203;&amp;zwnj;л&amp;#8203;&amp;zwnj;љ&amp;#8203;&amp;zwnj;м&amp;#8203;&amp;zwnj;н&amp;#8203;&amp;zwnj;њ&amp;#8203;&amp;zwnj;о&amp;#8203;&amp;zwnj;п&amp;#8203;&amp;zwnj;р&amp;#8203;&amp;zwnj;с&amp;#8203;&amp;zwnj;т&amp;#8203;&amp;zwnj;ћ&amp;#8203;&amp;zwnj;у&amp;#8203;&amp;zwnj;ў&amp;#8203;&amp;zwnj;ф&amp;#8203;&amp;zwnj;х&amp;#8203;&amp;zwnj;ц&amp;#8203;&amp;zwnj;ч&amp;#8203;&amp;zwnj;џ&amp;#8203;&amp;zwnj;ш&amp;#8203;&amp;zwnj;щ&amp;#8203;&amp;zwnj;ъ&amp;#8203;&amp;zwnj;ы&amp;#8203;&amp;zwnj;ь&amp;#8203;&amp;zwnj;э&amp;#8203;&amp;zwnj;ю&amp;#8203;&amp;zwnj;я&amp;#8203;&amp;zwnj;Α&amp;#8203;&amp;zwnj;Β&amp;#8203;&amp;zwnj;Γ&amp;#8203;&amp;zwnj;Δ&amp;#8203;&amp;zwnj;Ε&amp;#8203;&amp;zwnj;Ζ&amp;#8203;&amp;zwnj;Η&amp;#8203;&amp;zwnj;Θ&amp;#8203;&amp;zwnj;Ι&amp;#8203;&amp;zwnj;Κ&amp;#8203;&amp;zwnj;Λ&amp;#8203;&amp;zwnj;Μ&amp;#8203;&amp;zwnj;Ν&amp;#8203;&amp;zwnj;Ξ&amp;#8203;&amp;zwnj;Ο&amp;#8203;&amp;zwnj;Π&amp;#8203;&amp;zwnj;Ρ&amp;#8203;&amp;zwnj;Σ&amp;#8203;&amp;zwnj;Τ&amp;#8203;&amp;zwnj;Υ&amp;#8203;&amp;zwnj;Φ&amp;#8203;&amp;zwnj;Χ&amp;#8203;&amp;zwnj;Ψ&amp;#8203;&amp;zwnj;Ω&amp;#8203;&amp;zwnj;α&amp;#8203;&amp;zwnj;β&amp;#8203;&amp;zwnj;γ&amp;#8203;&amp;zwnj;δ&amp;#8203;&amp;zwnj;ε&amp;#8203;&amp;zwnj;ζ&amp;#8203;&amp;zwnj;η&amp;#8203;&amp;zwnj;θ&amp;#8203;&amp;zwnj;ι&amp;#8203;&amp;zwnj;κ&amp;#8203;&amp;zwnj;λ&amp;#8203;&amp;zwnj;μ&amp;#8203;&amp;zwnj;ν&amp;#8203;&amp;zwnj;ξ&amp;#8203;&amp;zwnj;ο&amp;#8203;&amp;zwnj;π&amp;#8203;&amp;zwnj;ρ&amp;#8203;&amp;zwnj;σ&amp;#8203;&amp;zwnj;τ&amp;#8203;&amp;zwnj;υ&amp;#8203;&amp;zwnj;φ&amp;#8203;&amp;zwnj;χ&amp;#8203;&amp;zwnj;ψ&amp;#8203;&amp;zwnj;ω&amp;#8203;&amp;zwnj;ά&amp;#8203;&amp;zwnj;Ά&amp;#8203;&amp;zwnj;έ&amp;#8203;&amp;zwnj;Έ&amp;#8203;&amp;zwnj;έ&amp;#8203;&amp;zwnj;Ή&amp;#8203;&amp;zwnj;ί&amp;#8203;&amp;zwnj;ϊ&amp;#8203;&amp;zwnj;ΐ&amp;#8203;&amp;zwnj;Ί&amp;#8203;&amp;zwnj;ό&amp;#8203;&amp;zwnj;Ό&amp;#8203;&amp;zwnj;ύ&amp;#8203;&amp;zwnj;ΰ&amp;#8203;&amp;zwnj;ϋ&amp;#8203;&amp;zwnj;Ύ&amp;#8203;&amp;zwnj;Ϋ&amp;#8203;&amp;zwnj;ὰ&amp;#8203;&amp;zwnj;ά&amp;#8203;&amp;zwnj;ὲ&amp;#8203;&amp;zwnj;έ&amp;#8203;&amp;zwnj;ὴ&amp;#8203;&amp;zwnj;ή&amp;#8203;&amp;zwnj;ὶ&amp;#8203;&amp;zwnj;ί&amp;#8203;&amp;zwnj;ὸ&amp;#8203;&amp;zwnj;ό&amp;#8203;&amp;zwnj;ὺ&amp;#8203;&amp;zwnj;ύ&amp;#8203;&amp;zwnj;ὼ&amp;#8203;&amp;zwnj;ώ&amp;#8203;&amp;zwnj;Ώ&amp;#8203;&amp;zwnj;आ&amp;#8203;&amp;zwnj;ई&amp;#8203;&amp;zwnj;ऊ&amp;#8203;&amp;zwnj;ऋ&amp;#8203;&amp;zwnj;ॠ&amp;#8203;&amp;zwnj;ऌ&amp;#8203;&amp;zwnj;ॡ&amp;#8203;&amp;zwnj;ऐ&amp;#8203;&amp;zwnj;औ&amp;#8203;&amp;zwnj;ऎ&amp;#8203;&amp;zwnj;अं&amp;#8203;&amp;zwnj;अँ&amp;#8203;&amp;zwnj;क&amp;#8203;&amp;zwnj;ख&amp;#8203;&amp;zwnj;ग&amp;#8203;&amp;zwnj;घ&amp;#8203;&amp;zwnj;ङ&amp;#8203;&amp;zwnj;च&amp;#8203;&amp;zwnj;छ&amp;#8203;&amp;zwnj;ज&amp;#8203;&amp;zwnj;झ&amp;#8203;&amp;zwnj;ञ&amp;#8203;&amp;zwnj;ट&amp;#8203;&amp;zwnj;ठ&amp;#8203;&amp;zwnj;ड&amp;#8203;&amp;zwnj;ढ&amp;#8203;&amp;zwnj;ण&amp;#8203;&amp;zwnj;त&amp;#8203;&amp;zwnj;थ&amp;#8203;&amp;zwnj;द&amp;#8203;&amp;zwnj;ध&amp;#8203;&amp;zwnj;न&amp;#8203;&amp;zwnj;प&amp;#8203;&amp;zwnj;फ&amp;#8203;&amp;zwnj;ब&amp;#8203;&amp;zwnj;भ&amp;#8203;&amp;zwnj;य&amp;#8203;&amp;zwnj;र&amp;#8203;&amp;zwnj;व&amp;#8203;&amp;zwnj;ळ&amp;#8203;&amp;zwnj;श&amp;#8203;&amp;zwnj;ष&amp;#8203;&amp;zwnj;स&amp;#8203;&amp;zwnj;ह&amp;#8203;&amp;zwnj;Ă&amp;#8203;&amp;zwnj;Â&amp;#8203;&amp;zwnj;Ê&amp;#8203;&amp;zwnj;Ô&amp;#8203;&amp;zwnj;Ơ&amp;#8203;&amp;zwnj;Ư&amp;#8203;&amp;zwnj;ă&amp;#8203;&amp;zwnj;â&amp;#8203;&amp;zwnj;ê&amp;#8203;&amp;zwnj;ô&amp;#8203;&amp;zwnj;ơ&amp;#8203;&amp;zwnj;ư&amp;#8203;&amp;zwnj;1&amp;#8203;&amp;zwnj;2&amp;#8203;&amp;zwnj;3&amp;#8203;&amp;zwnj;4&amp;#8203;&amp;zwnj;5&amp;#8203;&amp;zwnj;6&amp;#8203;&amp;zwnj;7&amp;#8203;&amp;zwnj;8&amp;#8203;&amp;zwnj;9&amp;#8203;&amp;zwnj;0&amp;#8203;&amp;zwnj;०&amp;#8203;&amp;zwnj;१&amp;#8203;&amp;zwnj;२&amp;#8203;&amp;zwnj;३&amp;#8203;&amp;zwnj;४&amp;#8203;&amp;zwnj;५&amp;#8203;&amp;zwnj;६&amp;#8203;&amp;zwnj;७&amp;#8203;&amp;zwnj;८&amp;#8203;&amp;zwnj;९&amp;#8203;&amp;zwnj;‘&amp;#8203;&amp;zwnj;?&amp;#8203;&amp;zwnj;’&amp;#8203;&amp;zwnj;“&amp;#8203;&amp;zwnj;!&amp;#8203;&amp;zwnj;”&amp;#8203;&amp;zwnj;(&amp;#8203;&amp;zwnj;%&amp;#8203;&amp;zwnj;)&amp;#8203;&amp;zwnj;[&amp;#8203;&amp;zwnj;#&amp;#8203;&amp;zwnj;]&amp;#8203;&amp;zwnj;{&amp;#8203;&amp;zwnj;@&amp;#8203;&amp;zwnj;}&amp;#8203;&amp;zwnj;/&amp;#8203;&amp;zwnj;&amp;amp;&amp;#8203;&amp;zwnj;&amp;lt;&amp;#8203;&amp;zwnj;-&amp;#8203;&amp;zwnj;+&amp;#8203;&amp;zwnj;÷&amp;#8203;&amp;zwnj;×&amp;#8203;&amp;zwnj;=&amp;#8203;&amp;zwnj;&amp;gt;&amp;#8203;&amp;zwnj;®&amp;#8203;&amp;zwnj;©&amp;#8203;&amp;zwnj;$&amp;#8203;&amp;zwnj;€&amp;#8203;&amp;zwnj;£&amp;#8203;&amp;zwnj;¥&amp;#8203;&amp;zwnj;¢&amp;#8203;&amp;zwnj;:&amp;#8203;&amp;zwnj;;&amp;#8203;&amp;zwnj;,&amp;#8203;&amp;zwnj;.&amp;#8203;&amp;zwnj;*&amp;#8203;&amp;zwnj;₹
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
+
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+
+&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;
+
+&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+
+&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
+
+&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
+
+&lt;h5 id=&#34;header-5&#34;&gt;Header 5&lt;/h5&gt;
+
+&lt;h6 id=&#34;header-6&#34;&gt;Header 6&lt;/h6&gt;
+
+&lt;h2 id=&#34;paragraphs&#34;&gt;Paragraphs&lt;/h2&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.&lt;/p&gt;
+
+&lt;h2 id=&#34;dos-and-don-ts&#34;&gt;Dos and Don&amp;rsquo;ts&lt;/h2&gt;
+
+&lt;p&gt;(add examples)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

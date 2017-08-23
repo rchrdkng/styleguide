@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Color on Lazada Mobile Style Guides</title>
+    <link>https://lzd-ux.github.io/styleguide/tags/color/</link>
+    <description>Recent content in Color on Lazada Mobile Style Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lzd-ux.github.io/styleguide/tags/color/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Colors</title>
+      <link>https://lzd-ux.github.io/styleguide/colors/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzd-ux.github.io/styleguide/colors/</guid>
+      <description>
+
+&lt;h1 id=&#34;colors&#34;&gt;Colors&lt;/h1&gt;
+
+&lt;p&gt;The general color palette is based on 5 color tones that are repeated throughout the UI.&lt;/p&gt;
+
+&lt;p&gt;Get colors in Sketch &lt;a href=&#34;https://lzd-ux.github.io/styleguide/&#34;&gt;here&lt;/a&gt; (add link)&lt;/p&gt;
+
+&lt;h2 id=&#34;main-colors&#34;&gt;Main Colors&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;color main-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#183545&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#183545&lt;/div&gt;
+
+
+&lt;label&gt;lazada_blue&lt;/label&gt;
+&lt;p&gt;Primary Blue&lt;/p&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color main-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#F57224&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#F57224&lt;/div&gt;
+
+
+&lt;label&gt;lazada_orange&lt;/label&gt;
+&lt;p&gt;The color for actions&lt;/p&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color main-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#F1F1F1&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#F1F1F1&lt;/div&gt;
+
+
+&lt;label&gt;lazada_background&lt;/label&gt;
+&lt;p&gt;Background color to support cards&lt;/p&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color main-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#ffffff&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#ffffff&lt;/div&gt;
+
+
+&lt;label&gt;lazada_white&lt;/label&gt;
+&lt;p&gt;Color for all content, cards and full screens&lt;/p&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color main-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#1A9CB7&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#1A9CB7&lt;/div&gt;
+
+
+&lt;label&gt;lazada_light_blue&lt;/label&gt;
+&lt;p&gt;Color to use of links or points of focus&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-palette&#34;&gt;Basic Palette&lt;/h2&gt;
+
+&lt;h3 id=&#34;solids&#34;&gt;Solids&lt;/h3&gt;
+
+&lt;p&gt;&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#183545&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#183545&lt;/div&gt;
+
+
+&lt;label&gt;lazada_blue&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#F57224&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#F57224&lt;/div&gt;
+
+
+&lt;label&gt;lazada_orange&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#202020&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#202020&lt;/div&gt;
+
+
+&lt;label&gt;lazada_black&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#5D5D5D&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#5D5D5D&lt;/div&gt;
+
+
+&lt;label&gt;lazada_dark_grey&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#979797&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#979797&lt;/div&gt;
+
+
+&lt;label&gt;lazada_grey&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#DDDDDD&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#DDDDDD&lt;/div&gt;
+
+
+&lt;label&gt;lazada_mid_grey&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#F1F1F1&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#F1F1F1&lt;/div&gt;
+
+
+&lt;label&gt;lazada_light_grey&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#FFFFFF&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#FFFFFF&lt;/div&gt;
+
+
+&lt;label&gt;lazada_white&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#F4F8F9&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#F4F8F9&lt;/div&gt;
+
+
+&lt;label&gt;lazada_card_blue&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#FACA51&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#FACA51&lt;/div&gt;
+
+
+&lt;label&gt;lazada_yellow&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#1A9CB7&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#1A9CB7&lt;/div&gt;
+
+
+&lt;label&gt;lazada_light_blue&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#D2232A&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#D2232A&lt;/div&gt;
+
+
+&lt;label&gt;lazada_red&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color palette-color&#34;&gt;
+
+
+&lt;div class=&#34;fill-color&#34; style=&#34;background-color:#478500&#34;&gt;&lt;/div&gt;
+&lt;div&gt;#478500&lt;/div&gt;
+
+
+&lt;label&gt;lazada_green&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;gradients&#34;&gt;Gradients&lt;/h3&gt;
+
+&lt;p&gt;&lt;div class=&#34;color gradient-color&#34;&gt;
+&lt;div class=&#34;from-color&#34; style=&#34;background-color:#1A9CB7&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;to-color&#34; style=&#34;background-color:#1692AC&#34;&gt;&lt;/div&gt;
+
+
+&lt;div&gt;#1A9CB7&lt;/div&gt;
+&lt;div&gt;#1692AC&lt;/div&gt;
+&lt;label&gt;lazada_blue_gradient&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&#34;color gradient-color&#34;&gt;
+&lt;div class=&#34;from-color&#34; style=&#34;background-color:#F57224&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;to-color&#34; style=&#34;background-color:#EA6516&#34;&gt;&lt;/div&gt;
+
+
+&lt;div&gt;#F57224&lt;/div&gt;
+&lt;div&gt;#EA6516&lt;/div&gt;
+&lt;label&gt;lazada_orange_gradient&lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
